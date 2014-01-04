@@ -1,0 +1,56 @@
+ls
+ls
+cd 桌面/
+ls
+ls
+cd
+ls
+git clone https://github.com/tuhaihe/Emacs
+ls
+cd Emacs/
+ls
+ls ~/.emacs.d/site-lisp/
+ls ~/.emacs.d/lisp/
+ls
+ls ~/.emacs.d/
+cd ~/.emacs.d/
+ls
+nano custom.el 
+ls
+cd ~/.emacs.d/
+ls
+ls auto-save-list/
+vi custom.el.save
+ls
+ls
+ls
+ls ~/Emacs/
+ls
+ls eshell/
+ls
+cd ..
+ls
+cd -
+ls
+ls lisp/
+vi lisp/init-git.el 
+ls
+vi lisp/init-php.el 
+ls
+cd site-lisp/
+ls
+cd ..
+s
+s
+ls
+clear
+ls
+vi custom.el
+vi custom.el.save
+cd elpa/
+ls
+ls
+cp ~/Emacs/fullscreen.el .
+ls | grep fullscreen.el 
+ls
+cp tabbar.el ~/.emacs.d/lisp/
