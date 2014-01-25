@@ -110,4 +110,9 @@
 ;;M-/本来对应zap-to-char，这里占用了
 (global-set-key (kbd "M-/") 'set-mark-command)
 
+
+;;调整乱码问题
+(require 'unicad)
+
 (provide 'init-locales)
+
